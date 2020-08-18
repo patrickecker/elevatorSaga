@@ -22,3 +22,5 @@ Challenge #3: Transport 23 people in 60 seconds or less
 Challenge #4: Transport 28 people in 60 seconds or less
 
 Challenge #5: Transport 100 people in 68 seconds or less
+
+Challenge #6: Transport 40 people using 60 elevator moves or less
