@@ -14,3 +14,4 @@ We want you to play elevatorsaga.com , and then we’ll talk about it.  :)
 
 
 Challenge #1: Transport 15 people in 60 seconds or less
+Challenge #2: Transport 20 people in 60 seconds or less
