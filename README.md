@@ -17,3 +17,4 @@ Challenge #1: Transport 15 people in 60 seconds or less
 Challenge #2: Transport 20 people in 60 seconds or less
 Challenge #3: Transport 23 people in 60 seconds or less
 Challenge #4: Transport 28 people in 60 seconds or less
+Challenge #5: Transport 100 people in 68 seconds or less
