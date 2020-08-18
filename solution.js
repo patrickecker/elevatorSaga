@@ -7,9 +7,11 @@
           });
 
           elevator.on("floor_button_pressed", function(floorNum) {
-              // Maybe tell the elevator to go to that floor?
-              elevator.goToFloor(floorNum);
-          });
+              // if floor is not already in the elevator's destination queue, go to it
+              if (elevator.destinationQueue.indexOf(floorNum) == -1) {
+                  elevator.goToFloor(floorNum);
+              }
+          })
 
           elevator.on("passing_floor", function(floorNum, direction) {
               // check to see if floorNum is in the destinationQueue
